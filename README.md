@@ -4,9 +4,9 @@
     <table align='center'>
     <!-- Title Line -->
     <tr align='center'>
-      <td><b>Project</b></td>
-      <td><b>Package</b></td>
-      <td><b>Sample</b></td>
+      <th><b>Project</b></th>
+      <th><b>Package</b></th>
+      <th><b>Sample</b></th>
     </tr>
       <!-- Line 1 -->
       <tr align='center'>
