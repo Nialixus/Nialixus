@@ -1,7 +1,4 @@
-<html>
-  <head></head>
-  <body>
-    <table align='center'>
+   <table align='center'>
     <!-- Title Line -->
     <tr align='center'>
       <th><b>Project</b></th>
@@ -74,5 +71,5 @@
         </td>
       </tr>
     </table>
-  </body>
-</html>
+    
+ ![](https://komarev.com/ghpvc/?username=Nialixus&label=View&style=flat-square)
