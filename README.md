@@ -72,4 +72,4 @@
       </tr>
     </table>
     
- ![](https://komarev.com/ghpvc/?username=Nialixus&label=View&style=flat-square)
+ ![](https://komarev.com/ghpvc/?username=Nialixus&label=Views&style=flat-square)
