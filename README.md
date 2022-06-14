@@ -61,7 +61,13 @@
       <!-- Line 4 -->
       <tr align='center'>
         <td></td>
-        <td></td>
+        <td>
+           <a href='https://github.com/Nialixus/richtrex_colorpicker'>
+            <b>RichTrex: Color Picker</b>
+            </br>
+            (Working In Progress) <sup>[4]</sup>
+          </a>
+        </td>
         <td>
           <a href='https://github.com/Nialixus/flutter-reqres'>
             <img src='https://user-images.githubusercontent.com/45191605/170668043-3b3ba0f0-7348-45a1-ab9f-b12744a35aa2.png' width=50/>
