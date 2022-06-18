@@ -62,10 +62,8 @@
       <tr align='center'>
         <td></td>
         <td>
-           <a href='https://github.com/Nialixus/richtrex_colorpicker'>
-            <b>RichTrex: Color Picker</b>
-            </br>
-            (Working In Progress) <sup>[4]</sup>
+           <a href='https://pub.dev/packages/richtrex_colorpicker'>
+            <b>RichTrex: Color Picker</b> <sup>[4]</sup>
           </a>
         </td>
         <td>
