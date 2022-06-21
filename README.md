@@ -85,6 +85,17 @@
          <td>
          </td>
       </tr>
+      <tr align="center">
+         <td>
+         </td>
+         <td>
+            <a href='https://github.com/Nialixus/richtrex_image'>
+            <b>RichTrex: Image</b></br>
+            (Working In Progress) <sup>[6]</sup>
+         </td>
+         <td>
+         </td>
+      </tr>
     </table>
     
  ![](https://komarev.com/ghpvc/?username=Nialixus&label=Views&style=flat-square)
