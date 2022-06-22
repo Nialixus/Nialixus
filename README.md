@@ -89,9 +89,8 @@
          <td>
          </td>
          <td>
-            <a href='https://github.com/Nialixus/richtrex_image'>
-            <b>RichTrex: Image</b></br>
-            (Working In Progress) <sup>[6]</sup>
+            <a href='https://pub.dev/packages/richtrex_image'>
+            <b>RichTrex: Image</b> <sup>[6]</sup>
          </td>
          <td>
          </td>
