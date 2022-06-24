@@ -21,7 +21,7 @@
         </td>
         <td>
           <a href='https://github.com/Nialixus/groceries-app'>
-            <b>Flutter Groceries App</b> <sup>[1]</sup>
+            <b>Groceries App</b> <sup>[1]</sup>
           </a>
         </td>
       </tr>
@@ -38,7 +38,7 @@
         </td>
         <td>
           <a href='https://github.com/Nialixus/minimalist-web-app'>
-            <b>Flutter Minimalist Web</b> <sup>[2]</sup>
+            <b>Ellcase Web</b> <sup>[2]</sup>
           </a>
         </td>
       </tr>
