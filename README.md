@@ -63,7 +63,7 @@
         <td></td>
         <td>
            <a href='https://pub.dev/packages/richtrex_colorpicker'>
-            <b>RichTrex: Color Picker</b> <sup>[4]</sup>
+            <b>Color Picker</b> <sup>[4]</sup>
           </a>
         </td>
         <td>
@@ -90,7 +90,7 @@
          </td>
          <td>
             <a href='https://pub.dev/packages/richtrex_image'>
-            <b>RichTrex: Image</b> <sup>[6]</sup>
+            <b>Resizable Image</b> <sup>[6]</sup>
          </td>
          <td>
          </td>
