@@ -54,7 +54,7 @@
         </td>
         <td>
           <a href='https://github.com/Nialixus/flutter-restapi'>
-            <b>Flutter REST API</b> <sup>[3]</sup>
+            <b>Flutter REST API App</b> <sup>[3]</sup>
           </a>
         </td>
       </tr>
@@ -70,7 +70,7 @@
           <a href='https://github.com/Nialixus/flutter-reqres'>
             <img src='https://user-images.githubusercontent.com/45191605/170668043-3b3ba0f0-7348-45a1-ab9f-b12744a35aa2.png' width=50/>
             </br>
-            <b>ReqRes.in API</b> <sup>[4]</sup>
+            <b>ReqRes.in API App</b> <sup>[4]</sup>
           </a>
         </td>
       </tr>
@@ -79,7 +79,7 @@
          </td>
          <td>
             <a href='https://github.com/Nialixus/richtrex_format'>
-            <b>RichTrex: Format</b></br>
+            <b>TextSpan Encoder & Decoder</b></br>
             (Working In Progress) <sup>[5]</sup>
          </td>
          <td>
