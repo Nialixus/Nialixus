@@ -70,7 +70,7 @@
           <a href='https://github.com/Nialixus/flutter-reqres'>
             <img src='https://user-images.githubusercontent.com/45191605/170668043-3b3ba0f0-7348-45a1-ab9f-b12744a35aa2.png' width=50/>
             </br>
-            <b>Flutter ReqRes.in API</b> <sup>[4]</sup>
+            <b>ReqRes.in API</b> <sup>[4]</sup>
           </a>
         </td>
       </tr>
