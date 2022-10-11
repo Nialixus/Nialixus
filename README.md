@@ -95,6 +95,16 @@
          <td>
          </td>
       </tr>
+       <tr align="center">
+         <td>
+         </td>
+         <td>
+            <a href='https://pub.dev/packages/svg_flag'>
+            <b>Svg Flag</b> <sup>[7]</sup>
+         </td>
+         <td>
+         </td>
+      </tr>
     </table>
     
  ![](https://komarev.com/ghpvc/?username=Nialixus&label=Views&style=flat-square)
