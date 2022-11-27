@@ -78,9 +78,8 @@
          <td>
          </td>
          <td>
-            <a href='https://github.com/Nialixus/richtrex_format'>
-            <b>TextSpan Decoder</b></br>
-            (Working In Progress) <sup>[5]</sup>
+            <a href='https://pub.dev/packages/richtrex_span'>
+               <b>TextSpan Decoder and Encoder</b> <sup>[5]</sup>
          </td>
          <td>
          </td>
