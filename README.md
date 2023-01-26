@@ -49,7 +49,7 @@
           <a href='https://github.com/Nialixus/richtrex'>
             <b>RichTrex</b>
             </br>
-            (Working In Progress) <sup>[3]</sup>
+           (Discontinue) <sup>[3]</sup>
           </a>
         </td>
         <td>
