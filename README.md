@@ -104,6 +104,17 @@
          <td>
          </td>
       </tr>
+      </tr>
+       <tr align="center">
+         <td>
+         </td>
+         <td>
+            <a href='https://github.com/Nialixus/Appstate-Widget'>
+            <b>AppState Widget</b> <sup>[8]</sup>
+         </td>
+         <td>
+         </td>
+      </tr>
     </table>
     
  ![](https://komarev.com/ghpvc/?username=Nialixus&label=Views&style=flat-square)
