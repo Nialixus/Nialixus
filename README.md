@@ -109,8 +109,19 @@
          <td>
          </td>
          <td>
-            <a href='https://github.com/Nialixus/Appstate-Widget'>
+            <a href='https://github.com/Nialixus/appstate_widget'>
             <b>AppState Widget</b> <sup>[8]</sup>
+         </td>
+         <td>
+         </td>
+      </tr>
+      </tr>
+       <tr align="center">
+         <td>
+         </td>
+         <td>
+            <a href='https://pub.dev/packages/api_bloc'>
+            <b>API Bloc</b> <sup>[9]</sup>
          </td>
          <td>
          </td>
