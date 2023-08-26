@@ -126,6 +126,17 @@
          <td>
          </td>
       </tr>
+      </tr>
+       <tr align="center">
+         <td>
+         </td>
+         <td>
+            <a href='https://pub.dev/packages/env_reader'>
+            <b>Env Reader</b> <sup>[10]</sup>
+         </td>
+         <td>
+         </td>
+      </tr>
     </table>
     
  ![](https://komarev.com/ghpvc/?username=Nialixus&label=Views&style=flat-square)
