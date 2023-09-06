@@ -109,8 +109,8 @@
          <td>
          </td>
          <td>
-            <a href='https://github.com/Nialixus/appstate_widget'>
-            <b>AppState Widget</b> <sup>[8]</sup>
+            <a href='https://github.com/Nialixus/dart_fusion'>
+            <b>Dart Fusion</b> <sup>[8]</sup>
          </td>
          <td>
          </td>
