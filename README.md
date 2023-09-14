@@ -80,6 +80,7 @@
          <td>
             <a href='https://pub.dev/packages/richtrex_span'>
                <b>TextSpan Decoder and Encoder</b> <sup>[5]</sup>
+            </a>
          </td>
          <td>
          </td>
@@ -89,7 +90,8 @@
          </td>
          <td>
             <a href='https://pub.dev/packages/richtrex_image'>
-            <b>Resizable Image</b> <sup>[6]</sup>
+               <b>Resizable Image</b> <sup>[6]</sup>
+            </a>
          </td>
          <td>
          </td>
@@ -99,7 +101,8 @@
          </td>
          <td>
             <a href='https://pub.dev/packages/svg_flag'>
-            <b>Svg Flag</b> <sup>[7]</sup>
+               <b>Svg Flag</b> <sup>[7]</sup>
+            </a>
          </td>
          <td>
          </td>
@@ -110,7 +113,10 @@
          </td>
          <td>
             <a href='https://github.com/Nialixus/dart_fusion'>
-            <b>Dart Fusion</b> <sup>[8]</sup>
+               <img src='https://user-images.githubusercontent.com/45191605/267848544-e316c985-3369-4609-9aa5-6becfdb9bee8.png' width='50'/>
+               </br>
+               <b>Dart Fusion</b> <sup>[8]</sup>
+            </a>
          </td>
          <td>
          </td>
@@ -121,7 +127,8 @@
          </td>
          <td>
             <a href='https://pub.dev/packages/api_bloc'>
-            <b>API Bloc</b> <sup>[9]</sup>
+               <b>API Bloc</b> <sup>[9]</sup>
+            </a>
          </td>
          <td>
          </td>
@@ -132,7 +139,8 @@
          </td>
          <td>
             <a href='https://pub.dev/packages/env_reader'>
-            <b>Env Reader</b> <sup>[10]</sup>
+               <b>Env Reader</b> <sup>[10]</sup>
+            </a>
          </td>
          <td>
          </td>
