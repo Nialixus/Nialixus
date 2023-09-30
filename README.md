@@ -127,6 +127,8 @@
          </td>
          <td>
             <a href='https://pub.dev/packages/api_bloc'>
+               <img src='https://user-images.githubusercontent.com/45191605/271759061-4a6cd99b-a745-4c9d-8989-1dcf6566aae2.png' width='75'/>
+               </br>
                <b>API Bloc</b> <sup>[9]</sup>
             </a>
          </td>
