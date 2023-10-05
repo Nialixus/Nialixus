@@ -16,7 +16,7 @@
         </td>
         <td>
           <a href='https://pub.dev/packages/typewritertext'>
-            <img src='https://user-images.githubusercontent.com/45191605/272776265-849653b7-af9a-4aaa-8c9d-d9f2585ffe67.png' width=75/>
+            <img src='https://user-images.githubusercontent.com/45191605/272785686-7a626063-6047-463a-b931-db256c708335.png' width=100/>
             </br>
             <b>TypeWriterText</b> <sup>[1]</sup>
           </a>
