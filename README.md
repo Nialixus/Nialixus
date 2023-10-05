@@ -101,6 +101,8 @@
          </td>
          <td>
             <a href='https://pub.dev/packages/svg_flag'>
+               <img src='https://user-images.githubusercontent.com/45191605/272771716-70c922b2-59c3-4236-ad83-0ac8c6715ca2.png' width='100'/>
+               </br>
                <b>Svg Flag</b> <sup>[7]</sup>
             </a>
          </td>
