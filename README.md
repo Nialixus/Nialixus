@@ -33,7 +33,7 @@
         </td>
         <td>
           <a href='https://pub.dev/packages/filesaverz'>
-            <img src='https://user-images.githubusercontent.com/45191605/167240018-7ee15f24-ff2d-48f5-84d6-8be0dc4207fe.png' width=50/>
+            <img src='https://user-images.githubusercontent.com/45191605/272838580-8ed4093a-fb0b-4e2b-85ce-c2c905e2936f.png' width=100/>
             </br>
             <b>File Saver Z</b> <sup>[2]</sup>
           </a>
@@ -103,7 +103,7 @@
          </td>
          <td>
             <a href='https://pub.dev/packages/svg_flag'>
-               <img src='https://user-images.githubusercontent.com/45191605/272771716-70c922b2-59c3-4236-ad83-0ac8c6715ca2.png' width='100'/>
+               <img src='https://user-images.githubusercontent.com/45191605/272771716-70c922b2-59c3-4236-ad83-0ac8c6715ca2.png' width='125'/>
                </br>
                <b>Svg Flag</b> <sup>[7]</sup>
             </a>
@@ -117,7 +117,7 @@
          </td>
          <td>
             <a href='https://github.com/Nialixus/dart_fusion'>
-               <img src='https://user-images.githubusercontent.com/45191605/267848544-e316c985-3369-4609-9aa5-6becfdb9bee8.png' width='50'/>
+               <img src='https://user-images.githubusercontent.com/45191605/267848544-e316c985-3369-4609-9aa5-6becfdb9bee8.png' width='75'/>
                </br>
                <b>Dart Fusion</b> <sup>[8]</sup>
             </a>
@@ -131,7 +131,7 @@
          </td>
          <td>
             <a href='https://pub.dev/packages/api_bloc'>
-               <img src='https://user-images.githubusercontent.com/45191605/271759061-4a6cd99b-a745-4c9d-8989-1dcf6566aae2.png' width='75'/>
+               <img src='https://user-images.githubusercontent.com/45191605/271759061-4a6cd99b-a745-4c9d-8989-1dcf6566aae2.png' width='100'/>
                </br>
                <b>API Bloc</b> <sup>[9]</sup>
             </a>
