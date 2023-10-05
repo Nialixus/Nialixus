@@ -145,6 +145,8 @@
          </td>
          <td>
             <a href='https://pub.dev/packages/env_reader'>
+               <img src='https://user-images.githubusercontent.com/45191605/272797154-0b70d1ce-5bbe-4ecc-9baa-df2b6c473f14.png' width='75'/>
+               </br>
                <b>Env Reader</b> <sup>[10]</sup>
             </a>
          </td>
