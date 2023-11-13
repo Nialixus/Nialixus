@@ -85,7 +85,12 @@
             </a>
          </td>
          <td>
-         </td>
+          <b>🎉 FLUTTER</b>
+          </br>
+          <a href='https://nialixus-landing-page.web.app'>
+            <b>Landing Page</b> <sup>[5]</sup>
+          </a>
+        </td>
       </tr>
       <tr align="center">
          <td>
