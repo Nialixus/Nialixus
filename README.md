@@ -158,6 +158,20 @@
          <td>
          </td>
       </tr>
+      </tr>
+       <tr align="center">
+         <td>
+         </td>
+         <td>
+            <a href='https://pub.dev/packages/local_shared'>
+               <img src='https://raw.githubusercontent.com/Nialixus/local_shared/main/logo.png' width='100'/>
+               </br>
+               <b>Local Shared</b> <sup>[11]</sup>
+            </a>
+         </td>
+         <td>
+         </td>
+      </tr>
     </table>
     
  ![](https://komarev.com/ghpvc/?username=Nialixus&label=Views&style=flat-square)
