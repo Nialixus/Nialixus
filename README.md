@@ -101,6 +101,9 @@
             </a>
          </td>
          <td>
+            <a href='https://github.com/Nialixus/inidia.app/tree/main/lib/games/whack_a_mole'>
+               <b>Whack A Mole</b> <sup>[6]</sup>
+            </a>
          </td>
       </tr>
        <tr align="center">
