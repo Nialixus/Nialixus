@@ -175,6 +175,19 @@
          <td>
          </td>
       </tr>
+      <tr align="center">
+         <td>
+         </td>
+         <td>
+            <a href='https://github.com/Nialixus/scorm_flutter.git'>
+              <!-- <img src='https://raw.githubusercontent.com/Nialixus/scorm_flutter/logo.png' width='100'/>
+               </br> -->
+               <b>Scorm Flutter</b> <sup>[12]</sup>
+            </a>
+         </td>
+         <td>
+         </td>
+      </tr>
     </table>
     
  ![](https://komarev.com/ghpvc/?username=Nialixus&label=Views&style=flat-square)
