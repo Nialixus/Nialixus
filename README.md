@@ -192,7 +192,7 @@
          <td>
          </td>
          <td>
-            <a href='https://github.com/Nialixus/thicken.git'>
+            <a href='https://pub.dev/packages/thicken'>
                <img src='https://github.com/Nialixus/thicken/blob/38cfe510ce50ec40b4dd2ed7fada365bf16f89d0/logo.png' width='100'/>
                </br>
                <b>Thicken</b> <sup>[13]</sup>
